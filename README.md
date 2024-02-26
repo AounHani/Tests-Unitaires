@@ -1,1 +1,1 @@
-Les codes classes a tester son sur le package org.exemple
+Les codes des classes a tester son sur le package org.exemple
